@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/IdentityServerProj/.vs/IdentityServerProj/v15/sqlite3
+/IdentityServerProj/.vs/IdentityServerProj/v15
+/IdentityServerProj/IdentityServerProj/obj
+/is4Server/.vs/is4Server/v15
+/is4Server/is4Server/obj
