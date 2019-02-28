@@ -8,3 +8,5 @@
 /is4Server/.vs/is4Server/v15
 /is4Server/is4Server/obj
 /is4Server/is4Server/bin/Debug/netcoreapp2.2
+/is4Server/isClient/bin/Debug/netcoreapp2.2
+/is4Server/isClient/obj
